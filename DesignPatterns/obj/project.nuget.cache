@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxjR4uXWSoc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\Udla-Workshop-Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets (>= 1.10.13)' para 'net8.0'. PackageSourceMapping está habilitado. No se tuvieron en cuenta los siguientes orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Udla-Workshop-Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "filePath": "C:\\Users\\lenovo\\source\\repos\\Udla-Workshop-Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
